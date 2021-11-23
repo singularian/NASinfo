@@ -23,7 +23,7 @@ This is a link page for NAS RAID info.
 [STH](https://www.servethehome.com/)  
 [Use RAID 6](https://www.youtube.com/watch?v=A2OxG2UjiV4)  
 [Synology DS3622xs+ NAS Review ](https://www.youtube.com/watch?v=7I5T0GCsnjA&t=1604s)  
-[WD Black SN850 SSD - Should You Still Buy It?](https://www.youtube.com/watch?v=IfbRC6krPNo)  
+[WD Black SN850 SSD](https://www.youtube.com/watch?v=IfbRC6krPNo)  
 [DS3622XS+ & DS2422+](https://www.youtube.com/watch?v=aNO0wN8poWc)  
 
 # RAID Calculator

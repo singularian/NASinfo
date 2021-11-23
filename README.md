@@ -1,4 +1,4 @@
-# Raid Info
+# NAS Info
 
 This is a link page for NAS RAID info.
 

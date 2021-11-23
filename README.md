@@ -34,7 +34,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
 # RAID Levels
 
-https://en.wikipedia.org/wiki/Standard_RAID_levels
+[Raid Levels](https://en.wikipedia.org/wiki/Standard_RAID_levels) 
 
 # QNAP NAS Hardware
 

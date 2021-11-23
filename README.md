@@ -14,6 +14,7 @@ This is a link page for NAS RAID info.
 [NAS Compares](https://nascompares.com/)  
 [STH](https://www.servethehome.com/)  
 [Use RAID 6](https://www.youtube.com/watch?v=A2OxG2UjiV4)  
+[Synology DS3622xs+ NAS Review ](https://www.youtube.com/watch?v=7I5T0GCsnjA&t=1604s)
 [WD Black SN850 SSD - Should You Still Buy It?](https://www.youtube.com/watch?v=IfbRC6krPNo)  
 [WD GOLD 20TB HDD - DS3622XS+ & DS2422+ OUT - OWC ACCELSIOR 8M2 26GB/s PCIe - KIOAXA EM6 NVMe-oF SSD](https://www.youtube.com/watch?v=aNO0wN8poWc)
 
@@ -62,6 +63,11 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [Crucial](https://crucial.com)  
 [Microcenter](https://www.microcenter.com/)  
 [Newegg](https://www.newegg.com)  
+
+# SSD Internal
+
+[OWC accelsior-8 M.2 PCIe Card](https://www.owcdigital.com/products/accelsior-8m2)
+[Samsung 870](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/870evo/)
 
 # SSD External
 

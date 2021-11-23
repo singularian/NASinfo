@@ -1,6 +1,6 @@
 # Raid Info
 
-This is a link for RAID info.
+This is a link page for NAS RAID info.
 
 # Raid Server Providers
 

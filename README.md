@@ -14,6 +14,7 @@ This is a link for RAID info.
 [NAS Compares](https://nascompares.com/)  
 [STH](https://www.servethehome.com/)  
 [Use RAID 6](https://www.youtube.com/watch?v=A2OxG2UjiV4)  
+[WD Black SN850 SSD - Should You Still Buy It?](https://www.youtube.com/watch?v=IfbRC6krPNo)  
 
 # RAID Calculator
 

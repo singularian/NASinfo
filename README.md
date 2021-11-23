@@ -56,6 +56,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [Storage Accessories](https://www.qnap.com/en-us/product/series/storage-accessories)  
 [Quad M.2 Card](https://www.qnap.com/en-us/product/qm2-4p-384)  
 [Dual M.2 SATA SSDs in a single 2.5-inch SATA drive bay](https://www.qnap.com/en-us/product/qda-a2mar)  
+[Dual 2.5 inch to 3.5 inch Bay](https://www.qnap.com/en-us/product/qda-a2ar)  
 
 # Synology Hardware
 

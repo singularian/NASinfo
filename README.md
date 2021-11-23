@@ -43,4 +43,10 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [Seagate](https://www.seagate.com)  
 [wd](https://www.westerndigital.com/) 
 
+# Resellers
+
+[Amazon](https://www.amazon.com)
+[Newegg](https://www.newegg.com)
+
+
 # SSD Vendors

@@ -16,7 +16,7 @@ This is a link page for NAS RAID info.
 [Use RAID 6](https://www.youtube.com/watch?v=A2OxG2UjiV4)  
 [Synology DS3622xs+ NAS Review ](https://www.youtube.com/watch?v=7I5T0GCsnjA&t=1604s)
 [WD Black SN850 SSD - Should You Still Buy It?](https://www.youtube.com/watch?v=IfbRC6krPNo)  
-[WD GOLD 20TB HDD - DS3622XS+ & DS2422+ OUT - OWC ACCELSIOR 8M2 26GB/s PCIe - KIOAXA EM6 NVMe-oF SSD](https://www.youtube.com/watch?v=aNO0wN8poWc)
+[DS3622XS+ & DS2422+](https://www.youtube.com/watch?v=aNO0wN8poWc)
 
 # RAID Calculator
 

@@ -58,6 +58,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
 # Synology Hardware
 
+[DS1520+](https://www.synology.com/en-global/products/DS1520+)  
 [DS1621+](https://www.synology.com/en-me/products/DS1621+)  
 [DS1821+](https://www.synology.com/en-me/products/DS1821+)  
 [DS2422+](https://www.synology.com/en-me/products/DS2422+)   

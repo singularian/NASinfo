@@ -24,7 +24,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
 # QNAP NAS Hardware
 
-[TBS-364](https://www.qnap.com/en-us/product/tbs-364)  
+[TS-364](https://www.qnap.com/en-us/product/ts-364)  
 [TBS-464](https://www.qnap.com/en-us/product/tbs-464)    
 [TS-473a](https://www.qnap.com/en-us/product/ts-473a)  
 [TS-673a](https://www.qnap.com/en-us/product/ts-673a)  

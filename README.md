@@ -66,8 +66,8 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
 # SSD Internal
 
-[OWC accelsior-8 M.2 PCIe Card](https://www.owcdigital.com/products/accelsior-8m2)
-[Samsung 870](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/870evo/)
+[OWC accelsior-8 M.2 PCIe Card](https://www.owcdigital.com/products/accelsior-8m2)  
+[Samsung 870](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/870evo/)  
 
 # SSD External
 

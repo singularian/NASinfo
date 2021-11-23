@@ -15,6 +15,7 @@ This is a link page for NAS RAID info.
 [STH](https://www.servethehome.com/)  
 [Use RAID 6](https://www.youtube.com/watch?v=A2OxG2UjiV4)  
 [WD Black SN850 SSD - Should You Still Buy It?](https://www.youtube.com/watch?v=IfbRC6krPNo)  
+[WD GOLD 20TB HDD - DS3622XS+ & DS2422+ OUT - OWC ACCELSIOR 8M2 26GB/s PCIe - KIOAXA EM6 NVMe-oF SSD](https://www.youtube.com/watch?v=aNO0wN8poWc)
 
 # RAID Calculator
 
@@ -57,7 +58,8 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 # US Resellers
 
 [Amazon](https://www.amazon.com)  
-[Best Buy](https://www.bestbuy.com)  
+[Best Buy](https://www.bestbuy.com)
+[Crucial](https://crucial.com)  
 [Microcenter](https://www.microcenter.com/)  
 [Newegg](https://www.newegg.com)  
 

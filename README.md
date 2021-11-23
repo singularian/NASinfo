@@ -47,7 +47,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 # Hard Drive Vendors
 
 [Seagate](https://www.seagate.com)  
-[wd](https://www.westerndigital.com/) 
+[Western Digigal](https://www.westerndigital.com/) 
 
 # US Resellers
 

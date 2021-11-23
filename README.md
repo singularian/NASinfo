@@ -9,12 +9,13 @@ This is a link page for NAS RAID info.
 [TRU NAS](https://www.truenas.com/)  
 
 
-# Raid Server Providers
+# NAS Raid Server Providers
 
 [QNAP](http://qnap.com)  
 [Synology](http://synology.com)  
 [IX Systems](https://www.ixsystems.com/)  
 [TRU NAS](https://www.truenas.com/truenas-mini/#Configure)
+[NAS Manufacturers](https://en.wikipedia.org/wiki/List_of_NAS_manufacturers)
 
 # Reviews
 

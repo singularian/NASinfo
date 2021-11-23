@@ -17,7 +17,7 @@ This is a link for RAID info.
 
 # RAID Calculator
 
-[Raid Calculator]http://www.raid-calculator.com/default.aspx)     
+[Raid Calculator](http://www.raid-calculator.com/default.aspx)     
 
 RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
@@ -27,6 +27,8 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [ts-473a](https://www.qnap.com/en-us/product/ts-473a)  
 [ts-673a](https://www.qnap.com/en-us/product/ts-673a)  
 [ts-873a](https://www.qnap.com/en-us/product/ts-873a)  
+[tvs-h1288x](https://www.qnap.com/en-us/product/tvs-h1288x)  
+[tvs-h1688x](https://www.qnap.com/en-us/product/tvs-h1688x)  
 
 
 # Synology Hardware
@@ -36,4 +38,9 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [DS2422+](https://www.synology.com/en-me/products/DS2422+)   
 [DS3622xs+](https://www.synology.com/en-me/products/DS3622xs+)  
 
-# Vendors
+# Hard Drive Vendors
+
+[Seagate](https://www.seagate.com)  
+[wd](https://www.westerndigital.com/) 
+
+# SSD Vendors

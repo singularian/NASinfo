@@ -22,15 +22,20 @@ This is a link page for NAS RAID info.
 
 RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
-# QNAP Hardware
+# QNAP NAS Hardware
 
-[TR-004 DAS USB-C](https://www.qnap.com/en-us/product/tr-004)  
+[TBS-364](https://www.qnap.com/en-us/product/tbs-364) 
 [TBS-464](https://www.qnap.com/en-us/product/tbs-464)   
 [TS-473a](https://www.qnap.com/en-us/product/ts-473a)  
 [TS-673a](https://www.qnap.com/en-us/product/ts-673a)  
 [TS-873a](https://www.qnap.com/en-us/product/ts-873a)  
 [TVS-h1288x](https://www.qnap.com/en-us/product/tvs-h1288x)  
 [TVS-h1688x](https://www.qnap.com/en-us/product/tvs-h1688x)  
+
+# QNAP DAS 
+
+[TR-002 DAS USB-C](https://www.qnap.com/en-us/product/tr-002)
+[TR-004 DAS USB-C](https://www.qnap.com/en-us/product/tr-004) 
 
 ### QNAP Accessories
 

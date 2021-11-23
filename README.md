@@ -55,5 +55,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [Microcenter](https://www.microcenter.com/)  
 [Newegg](https://www.newegg.com)  
 
+# SSD External
 
-# SSD Vendors
+[SanDisk 4TB Extreme Portable](https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D)
+

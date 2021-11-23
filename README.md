@@ -76,7 +76,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [Microcenter](https://www.microcenter.com/)  
 [Newegg](https://www.newegg.com)  
 
-# SSD Manufacturer Internal Pages
+# SSD Internal Manufacturer Pages
 
 [Samsung 870 EVO](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/870evo/)  
 [Samsung 970 NVMe](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/)  

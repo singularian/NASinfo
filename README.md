@@ -81,11 +81,11 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 # SSD Adapters
 
 [2.5 Inch M.2 SSD Adapter](https://wiebetech.com/products/sata-adapter-for-m-2-sata-ssds/)  
-[Ablecon 2.5 Inch NVMe SSD Adapter](https://www.amazon.com/Ableconn-ISAT-M2MS-2-5-Inch-Adapter-Aluminum/dp/B01N7S4H8L)
-[OWC accelsior-8 M.2 PCIe Card](https://www.owcdigital.com/products/accelsior-8m2)
+[Ablecon 2.5 Inch NVMe SSD Adapter](https://www.amazon.com/Ableconn-ISAT-M2MS-2-5-Inch-Adapter-Aluminum/dp/B01N7S4H8L)  
+[OWC accelsior-8 M.2 PCIe Card](https://www.owcdigital.com/products/accelsior-8m2)  
 
 # SSD External
 
-[SanDisk 4TB Extreme Portable](https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D)
+[SanDisk 4TB Extreme Portable](https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D)  
 
 

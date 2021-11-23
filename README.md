@@ -47,6 +47,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 # Resellers
 
 [Amazon](https://www.amazon.com)  
+[Microcenter](https://www.microcenter.com/)
 [Newegg](https://www.newegg.com)  
 
 

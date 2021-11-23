@@ -6,6 +6,7 @@ This is a link page for NAS RAID info.
 
 [Unraid](https://unraid.net/)  
 [Open Media Vault](https://www.openmediavault.org/)  
+[TRU NAS](https://www.truenas.com/)  
 
 
 # Raid Server Providers
@@ -73,7 +74,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 # SSD Internal
 
 [Samsung 870](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/870evo/)  
-[Samsung 980 NVME](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/980/)
+[Samsung 980 NVME](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/980/)  
 [Corsair MP600 Amazon](https://www.amazon.com/gp/product/B07SQZYW2V/ref=ask_ql_qh_dp_hza)  
 
 # SSD Adapters

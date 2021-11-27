@@ -98,7 +98,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
 [Corsair MP600 Amazon](https://www.amazon.com/gp/product/B07SQZYW2V/ref=ask_ql_qh_dp_hza)    
 [Seagate Firecuda 530 Amazon](https://www.amazon.com/Seagate-FireCuda-Solid-State-Drive/dp/B08Q54GHTC)  
-[WD Red SN700 NVMe SSD Amazon](https://www.amazon.com/Western-Digital-SN700-Internal-Devices/dp/B09H1M6ZRT)
+[WD Red SN700 NVMe SSD Amazon](https://www.amazon.com/Western-Digital-SN700-Internal-Devices/dp/B09H1M6ZRT)  
 [ineo M.2 NVMe (PCIe) SSD Enclosure Built-in Cooling Fan Amazon](https://www.amazon.com/ineo-Enclosure-Cooling-Protection-C2598-NVMe/dp/B0827NHNNY)  
 
 

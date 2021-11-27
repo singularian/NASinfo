@@ -84,6 +84,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [Samsung 870 EVO](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/870evo/)  
 [Samsung 970 NVMe](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/)  
 [Samsung 980 NVMe](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/980/)  
+[Seagate Firecuda 530 NVMe](https://www.seagate.com/products/gaming-drives/pc-gaming/firecuda-530-ssd/)  
 
 
 # SSD Adapters 
@@ -95,6 +96,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 # SSD Internal
 
 [Corsair MP600 Amazon](https://www.amazon.com/gp/product/B07SQZYW2V/ref=ask_ql_qh_dp_hza)  
+
 
 # SSD External
 

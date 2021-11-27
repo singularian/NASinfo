@@ -85,6 +85,7 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 [Samsung 970 NVMe](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/)  
 [Samsung 980 NVMe](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/980/)  
 [Seagate Firecuda 530 NVMe](https://www.seagate.com/products/gaming-drives/pc-gaming/firecuda-530-ssd/)  
+[WD Red SN700 NVMe SSD](https://www.westerndigital.com/products/internal-drives/wd-red-sn700-nvme-ssd#WDS250G1R0C)  
 
 
 # SSD Adapters 
@@ -95,7 +96,10 @@ RAID 6 gives 2 drives of redundancy verses RAID 5's 1 drive of redundancy.
 
 # SSD Internal
 
-[Corsair MP600 Amazon](https://www.amazon.com/gp/product/B07SQZYW2V/ref=ask_ql_qh_dp_hza)  
+[Corsair MP600 Amazon](https://www.amazon.com/gp/product/B07SQZYW2V/ref=ask_ql_qh_dp_hza)    
+[Seagate Firecuda 530 Amazon](https://www.amazon.com/Seagate-FireCuda-Solid-State-Drive/dp/B08Q54GHTC)  
+[WD Red SN700 NVMe SSD Amazon](https://www.amazon.com/Western-Digital-SN700-Internal-Devices/dp/B09H1M6ZRT)
+[ineo M.2 NVMe (PCIe) SSD Enclosure Built-in Cooling Fan Amazon](https://www.amazon.com/ineo-Enclosure-Cooling-Protection-C2598-NVMe/dp/B0827NHNNY)  
 
 
 # SSD External
